@@ -13,4 +13,3 @@ Deepening my expertise in .NET tools and frameworks
 Exploring and contributing to exciting open-source repositories
 📫 Connect with Me
 📧 Email: [s.babaee.2002@gmail.com]
-🔗 LinkedIn: [Soheil Babaee]
