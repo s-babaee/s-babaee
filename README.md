@@ -3,9 +3,9 @@
 ### 💻 About Me  
 - 🌐 Backend developer with a focus on **.NET**  
 - 🔧 My key skills:  
-  - 🧰 **C# | ASP.NET Core | SQL Server**  
+  - 🧰 **C# | ASP.NET Core**  
   - 🐍 **Python**  
-  - 🛠 **Git | C++**  
+  - 🛠 **Git**  
 
 ### 📈 Currently  
 - Deepening my expertise in .NET tools and frameworks  
